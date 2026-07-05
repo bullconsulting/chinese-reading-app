@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base app theme. Compose draws the real UI; this just sets a no-action-bar shell. -->
+    <style name="Theme.ChineseReader" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
